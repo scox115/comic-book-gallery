@@ -13,10 +13,5 @@ namespace ComicBookGallery.Controllers
         {
             return View();
         }
-
-        public string Detail()
-        {
-            return "Hello World!";
-        }
     }
 }
